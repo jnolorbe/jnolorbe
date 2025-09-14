@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 &nbsp; Lenguajes y Herramientas
+## Lenguajes y Herramientas 🛠
 
 **Languages:**  
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"> &nbsp;
@@ -32,6 +32,7 @@
 ![SymPy](https://img.shields.io/badge/-SymPy-05122A?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Google Earth Engine](https://img.shields.io/badge/-Google--Earth--Engine-4285F4?logo=googleearthengine&logoColor=white)
 
 **Dev Tools & Others:**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -41,7 +42,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
 
 ---
-
 
 <!--
 **jnolorbe/jnolorbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
