@@ -7,7 +7,7 @@
 > **— Carl Sagan**
 
 - 🔭 Actualmente enseño Física y estoy realizando una investigación sobre piedras sonoras.
-- 👯 Estoy buscando colaboradores para dara capacitaciones en Estadística altamente especializada.
+- 👯 Estoy buscando colaboradores para capacitaciones en estadística y herramientas de teletedección.
 - 💬 Puedes preguntarme sobre estadística e investigación cientifica usando IA.
 - 📫 Puedes contactarme: jnolorbe@gmail.com | WhatsApp: +51 999 073 820
 - ⚡ Dato curioso: Tenía siete vidas, ahora me queda tres. 
